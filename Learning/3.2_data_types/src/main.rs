@@ -3,6 +3,8 @@ fn main() {
 
     let y: f32 = 3.0; // f32
 
+    let your: isize = 3; // Depends on your CPU Architecture
+
     // addition
     let sum = 5 + 10;
 
